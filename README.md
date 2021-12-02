@@ -2,7 +2,7 @@
 
 My name is Knighten Cooper and I am studying to be a software engineer. I wanted to get practice with Java so 
 I made a simple financial planning app. This project helped me to learn some basic syntax and get experience 
-with java.
+with Java.
 
 My app uses a command-line interface to ask a user if they want to set a savings goal, calculate simple interest,
 or calculation compound interest. The app then collects the user's information and tells them how much their 
@@ -16,19 +16,20 @@ to see how the two languages differ and are similar. Doing this project taught m
 
 # Development Environment
 
-I used an online IDE called replit, and then moved to Vs Code. I liked the simplicity of Replit but it's very slow.
+I started on an online IDE called Replit, and then moved to Vs Code. I liked the simplicity of using Replit but it's very slow.
 
-I used the Java language and 
+I used the Java language and the Scanner and ArrayList imports.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3Schools](https://www.w3schools.com)
+* [Stack Overflow](https://stackoverflow.com)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I would like to change the outputs so they only have 2 decimal places. The numbers represent money so 2 decimal
+places makes more sense.
+* I would love to implement a GUI. The command-line interface works but isn't ver user friendly.
+* It would be amazing if I could connect this with a banking API and utilize a user's actual information to 
+make calculations.

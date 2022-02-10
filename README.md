@@ -5,7 +5,7 @@ I made a simple financial planning app. This project helped me to learn some bas
 with Java.
 
 My app uses a command-line interface to ask a user if they want to set a savings goal, calculate simple interest,
-or calculation compound interest. The app then collects the user's information and tells them how much their 
+or calculate compound interest. The app then collects the user's information and tells them how much their 
 investment will be worth or how much they need to save each month to reach their savings goal. The app utilizes
 functions, loops, classes, variables, an ArrayList, conditionals, and expressions.
 

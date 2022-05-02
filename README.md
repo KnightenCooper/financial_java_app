@@ -22,7 +22,6 @@ I used the Java language and the Scanner and ArrayList imports.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3Schools](https://www.w3schools.com)
 * [Stack Overflow](https://stackoverflow.com)
 
